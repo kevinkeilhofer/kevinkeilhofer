@@ -10,3 +10,7 @@ Find me around the web 🌎:
 
 Tools I used 🧰:
 <br><br><img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/24/000000/javascript--v1.png"/><img src="https://img.icons8.com/ios-filled/24/000000/css.png"/><img src="https://img.icons8.com/color/24/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/24/000000/adobe-xd--v1.png"/><img src="https://img.icons8.com/color/24/000000/adobe-indesign--v1.png"/><img src="https://img.icons8.com/color/24/000000/adobe-illustrator--v1.png"/><img src="https://img.icons8.com/color/24/000000/adobe-after-effects--v1.png"/><img src="https://img.icons8.com/color/24/000000/adobe-lightroom--v1.png"/><img src="https://img.icons8.com/color/24/000000/adobe-acrobat--v1.png"/><img src="https://img.icons8.com/fluency/24/000000/figma.png"/><img src="https://img.icons8.com/color/24/000000/zoom.png"/><img src="https://img.icons8.com/material-outlined/24/000000/notion--v1.png"/><img src="https://img.icons8.com/color/24/000000/slack-new.png"/><img src="https://img.icons8.com/color/24/000000/arduino.png"/><img src="https://img.icons8.com/color/24/000000/firebase.png"/><img src="https://img.icons8.com/color/24/000000/tensorflow.png"/>
+
+
+
+https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg
