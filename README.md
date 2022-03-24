@@ -13,6 +13,5 @@ Tools I used 🧰:
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/24px-CSS3_logo_and_wordmark.svg.png"/>
-
-
-<img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg"/>
+https://albionacademy.de/wp-content/uploads/2021/05/Miro-Logo.png
+<img src="https://miro.com/blog/wp-content/uploads/2019/24/icon.svg"/>
