@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋,&nbspI'm Kevin Jonathan Keilhofer 👨‍💻</h1>
+<h1 align="center">Hello, I'm Kevin Jonathan Keilhofer 👨‍💻</h1>
 
 <h3 align="center">Digital Product Designer |  KVN Solutions</h3> <br>
 
