@@ -2,6 +2,8 @@
 
 Hi, I'm Kevin! I'm a Digital Product Designer. <span style="color:blue">some *blue* text</span>. My motivation focuses on the conception, design and implementation of user-centered products and prototypes. My passion is on UX/UI design, programming and prototyping.
 
+Roses are \textcolor{red}{red}, violets are \textcolor{blue}{blue}.
+
 Find me around the web 🌎:
 - Find my creative work on <a href="https://dribbble.com/kevinkeilhofer">Dribbble</a> 🏀
 - Check some code on <a href="https://github.com/kevinkeilhofer">GitHub</a> 🎮
