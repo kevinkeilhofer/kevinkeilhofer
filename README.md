@@ -1,6 +1,10 @@
 # Hello 👋 👨‍💻
 
-A designer who thrives on delivering creative solutions to his clients. Kevin specializes in UI & UX, app design, and general conceptual thinking.
+Dynamic UX Designer with over 3 years of experience in creating intuitive, engaging user experiences for mobile and web applications.
+Proven proficiency with Design Thinking methodologies.
+Passionate about solving complex user problems and improving usability to enhance user satisfaction.
+
+Specialties: UI & UX | Digital | Web | Coding | Prototyping.
 <!-- Hi, I'm Kevin! I'm a Digital Product Designer. My motivation focuses on the conception, design and implementation of user-centered products and prototypes. My passion is on UX/UI design, programming and prototyping. -->
 
 <!--- Find me around the web 🌎:
